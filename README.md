@@ -1,5 +1,14 @@
-## Hello 🙏 Namaste
-# I'm Akriti
+
+
+<h2 align='center' style="border:0">Hello</br></br> 🙏 </br></br> Namaste
+</h2>
+
+<h1 align="left"> I'm Akriti Ghosh
+</h1>
+    
+<h4>Senior Software Engineer</h4>
+4 years of experience
+
 
 ## My Tech Stack
 <p align="center">
