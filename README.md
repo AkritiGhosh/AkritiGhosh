@@ -7,8 +7,14 @@
 </h1>
     
 <h4>Senior Software Engineer</h4>
-4 years of experience
+<h5>4 years of experience</h5>
 
+<br/>
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
 
 ## My Tech Stack
 <p align="center">
